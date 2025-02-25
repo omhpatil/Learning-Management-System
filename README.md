@@ -59,10 +59,10 @@ It includes **role-based authentication** and **authorization**, ensuring a **se
 │   ├── main
 │   │   ├── java
 │   │   │   └── com/lms
-│   │   │       ├── controllers  # All REST API and view controllers
-│   │   │       ├── models       # JPA entity models (User, Course, Lesson, Quiz, etc.)
-│   │   │       ├── services     # Business logic and service classes
-│   │   │       ├── repositories # Data access layer using JPA repositories
+│   │   │       ├── controllers   # All REST API and view controllers
+│   │   │       ├── models        # JPA entity models (User, Course, Lesson, Quiz, etc.)
+│   │   │       ├── services      # Business logic and service classes
+│   │   │       ├── repositories  # Data access layer using JPA repositories
 │   │   └── resources
 │   │       ├── templates               # Thymeleaf templates (HTML files)
 │   │       ├── application.properties  # Configuration properties (MySQL, Security, etc.)
