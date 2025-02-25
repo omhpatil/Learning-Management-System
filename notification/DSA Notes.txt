@@ -1,0 +1,41 @@
+1. Time and Space Complexity:
+
+Time Complexity: Relation between input size and running time(operations)
+
+Best Case:	Omega(1)
+Average Case:	Theta(n+1)/2
+Worst Case:	O(n)
+
+Compare: O(n)	O(n^2)	O(n^3)
+n=1	  1	   1 	   1
+n=2       2	   4	   8
+n=3 	  3        9       27	
+
+DP is used to optimize code complexity
+
+Space Complexity: How much memory the code requires
+
+
+2. Arrays:
+
+Declaration of Array: 
+type[] arrayName = new type[size];
+
+2D Arrays: 
+Declaration of 2D Array: 
+type[][] arrayName = new type[rows][coloumns]
+
+3. Bit Manipulation: 
+- Get Bit Operation: Understand bit is 0 or 1
+- Set Bit Operation: Suppose bit has to set 1
+- Clear Bit Operation: Suppose bit has to set 0
+- Update Bit Operation: 1 to 0 and 0 to 1
+
+4. Recursion: 
+Prerequisites: - Iteration / Loops and Functions
+
+5. Backtracking:
+
+6. Merge Sort: 
+
+7. 
