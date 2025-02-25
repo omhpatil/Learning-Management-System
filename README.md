@@ -54,7 +54,6 @@ It includes **role-based authentication** and **authorization**, ensuring a **se
 
 ---
 
-## 📂 **Project Structure**  
 ## 📂 Project Structure  
 
 ```bash
